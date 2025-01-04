@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/service_partner_list_controller.dart';
+import 'package:customer/controller/partner%20controller/service_partner_list_controller.dart';
 import 'package:customer/view/screens/addressManagement/listAddress.dart';
 import 'package:customer/view/screens/searchPartners/PartnerDeatilsScreen.dart';
 import 'package:flutter/cupertino.dart';

@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/forgotPasswordOTP_controller.dart';
+import 'package:customer/controller/auth_controller/forgotPasswordOTP_controller.dart';
 import 'package:get/get.dart';
 
 class ForgetPasswordOTP extends StatelessWidget {

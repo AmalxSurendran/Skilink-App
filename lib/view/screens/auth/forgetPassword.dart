@@ -1,7 +1,7 @@
 // ignore_for_file: file_names, non_constant_identifier_names
 
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/forgotPassword_controller.dart';
+import 'package:customer/controller/auth_controller/forgotPassword_controller.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 

@@ -6,7 +6,7 @@ import 'package:customer/utils/api.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import '../view/screens/auth/forgotPasswordOTP.dart';
+import '../../view/screens/auth/forgotPasswordOTP.dart';
 
 // Controller for Forgot Password
 class ForgotPasswordController extends GetxController {

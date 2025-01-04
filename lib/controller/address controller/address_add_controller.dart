@@ -4,7 +4,7 @@ import 'package:customer/app/generalImports.dart';
 import 'package:get/get.dart';
 import 'dart:developer';
 import 'package:http/http.dart' as http;
-import '../../../utils/api.dart';
+import '../../../../utils/api.dart';
 
 class AddAddressController extends GetxController {
   var isLoading = false.obs;

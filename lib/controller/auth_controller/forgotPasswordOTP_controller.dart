@@ -5,7 +5,7 @@ import 'package:customer/app/generalImports.dart';
 import 'package:customer/view/screens/auth/resetPasswordScreen.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import '../utils/api.dart';
+import '../../utils/api.dart';
 
 class ForgetPasswordOTPController extends GetxController {
   var otpControllers = List.generate(6, (index) => TextEditingController()).obs;

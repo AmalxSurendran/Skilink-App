@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:developer';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/profile_controller.dart';
+import 'package:customer/controller/profile%20controller/profile_controller.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;

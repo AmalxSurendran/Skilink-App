@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/authRegOne_controller.dart';
+import 'package:customer/controller/auth_controller/authRegOne_controller.dart';
 import 'package:flutter/gestures.dart';
 import 'package:url_launcher/url_launcher.dart';
 

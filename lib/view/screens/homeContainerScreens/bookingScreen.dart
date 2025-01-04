@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 
-import 'package:customer/controller/booking_controller.dart';
+import 'package:customer/controller/booking%20controller/booking_controller.dart';
 import 'package:customer/view/screens/auth/login.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

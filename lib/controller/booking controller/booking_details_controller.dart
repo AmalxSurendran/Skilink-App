@@ -6,7 +6,7 @@ import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:url_launcher/url_launcher.dart';
 
-import '../../../utils/api.dart';
+import '../../../../utils/api.dart';
 
 class BookingDetailsController extends GetxController {
   var bookingDetails = <String, dynamic>{}.obs;

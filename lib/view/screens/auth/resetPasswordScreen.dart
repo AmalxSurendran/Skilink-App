@@ -143,7 +143,7 @@
 
 // ignore_for_file: no_leading_underscores_for_local_identifiers, file_names
 
-import 'package:customer/controller/passwordReset_controller.dart';
+import 'package:customer/controller/auth_controller/passwordReset_controller.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

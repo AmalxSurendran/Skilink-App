@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 
-import 'package:customer/controller/login_controller.dart';
+import 'package:customer/controller/auth_controller/login_controller.dart';
 import 'package:customer/utils/colors.dart';
 import 'package:customer/view/screens/auth/authRegOne.dart';
 import 'package:customer/view/screens/auth/forgetPassword.dart';

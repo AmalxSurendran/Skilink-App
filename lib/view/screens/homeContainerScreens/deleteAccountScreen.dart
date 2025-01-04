@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:customer/controller/profile_controller.dart';
+import 'package:customer/controller/profile%20controller/profile_controller.dart';
 import '../../../utils/colors.dart';
 
 class DeleteAccountScreen extends StatelessWidget {

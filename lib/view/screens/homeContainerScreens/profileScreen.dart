@@ -1,9 +1,9 @@
 // ignore_for_file: file_names
 
 import 'package:customer/app/generalImports.dart';
-import 'package:customer/controller/login_controller.dart';
-import 'package:customer/controller/profile_controller.dart';
-import 'package:customer/controller/passwordReset_controller.dart';
+import 'package:customer/controller/auth_controller/login_controller.dart';
+import 'package:customer/controller/profile%20controller/profile_controller.dart';
+import 'package:customer/controller/auth_controller/passwordReset_controller.dart';
 import 'package:customer/view/screens/addressManagement/listAddress.dart';
 import 'package:customer/view/screens/auth/resetPasswordScreen.dart';
 import 'package:customer/view/screens/homeContainerScreens/editUsernameScreen.dart';

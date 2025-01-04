@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, file_names
 
-import 'package:customer/controller/gender_edit_controller.dart';
+import 'package:customer/controller/profile%20controller/gender_edit_controller.dart';
 import 'package:customer/utils/colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

@@ -2,7 +2,7 @@
 
 import 'dart:developer';
 
-import 'package:customer/controller/partner_search_list_controller.dart';
+import 'package:customer/controller/partner%20controller/partner_search_list_controller.dart';
 import 'package:customer/view/screens/searchPartners/PartnerDeatilsScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

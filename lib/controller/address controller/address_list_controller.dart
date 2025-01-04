@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:customer/controller/partner_search_list_controller.dart';
-import 'package:customer/controller/service_partner_list_controller.dart';
+import 'package:customer/controller/partner%20controller/partner_search_list_controller.dart';
+import 'package:customer/controller/partner%20controller/service_partner_list_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;

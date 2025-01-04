@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import '../../../utils/api.dart';
+import '../../../../utils/api.dart';
 
 class BookingController extends GetxController {
   var bookings = <dynamic>[].obs;

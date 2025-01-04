@@ -189,7 +189,7 @@
 // ignore_for_file: file_names
 
 import 'package:customer/utils/colors.dart';
-import 'package:customer/controller/authRegotp_controller.dart';
+import 'package:customer/controller/auth_controller/authRegotp_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

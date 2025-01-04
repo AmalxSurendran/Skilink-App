@@ -3,9 +3,9 @@
 import 'dart:convert';
 import 'dart:developer';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:customer/controller/booking_controller.dart';
+import 'package:customer/controller/booking%20controller/booking_controller.dart';
 import 'package:customer/controller/home_controller.dart';
-import 'package:customer/controller/profile_controller.dart';
+import 'package:customer/controller/profile%20controller/profile_controller.dart';
 import 'package:customer/view/screens/auth/login.dart';
 import 'package:customer/view/screens/LandingScreen.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +13,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import '../utils/api.dart';
+import '../../utils/api.dart';
 
 class AuthLoginController extends GetxController {
   var countryCodes = <Map<String, dynamic>>[].obs;

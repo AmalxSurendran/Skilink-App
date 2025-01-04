@@ -8,8 +8,8 @@ import 'package:customer/view/screens/auth/login.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import '../../app/generalImports.dart';
-import '../../utils/api.dart';
+import '../../../app/generalImports.dart';
+import '../../../utils/api.dart';
 
 class ResetPasswordController extends GetxController {
   TextEditingController passwordController = TextEditingController();
