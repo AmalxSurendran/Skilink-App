@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466148346760",
+    "project_id": "skilink-51aa8",
+    "storage_bucket": "skilink-51aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466148346760:android:9b395a4741bdcef3aa083d",
+        "android_client_info": {
+          "package_name": "com.app.skilink.app.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrBpWBnflvV1zT3fTQCgodYLl13Zw4ZQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
